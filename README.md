@@ -1,2 +1,0 @@
-# studentperformence 
-SQL PROJECT
